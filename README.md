@@ -26,12 +26,12 @@ Create a new folder for your project and save these files:
 
 ```
 attendance-system/
-├── server.js          (Backend server - use the fixed version I provided)
+├── server.js          (Backend server)
 ├── .env               (Environment variables)
 ├── package.json       (Node.js dependencies)
 ├── project.html       (Homepage)
-├── teacherloginpage.html (Login page - use fixed version)
-├── attendance.html    (Dashboard - use fixed version)
+├── teacherloginpage.html (Login page)
+├── attendance.html    (Dashboard)
 └── README.md
 ```
 
