@@ -1,3 +1,48 @@
+# 👋 Hey, I’m Namit Tickoo  
+
+🎓 **Electrical & Computer Engineering @ Manipal University Jaipur**  
+💻 **Aspiring Full-Stack Developer | Backend Enthusiast | Future GSoC Contributor**  
+🚀 Passionate about building scalable web apps, contributing to open source, and solving real-world problems with code.  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Languages:** Java, C, JavaScript  
+- **Frontend:** HTML, CSS, TailwindCSS (learning), React (upcoming)  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB (Atlas & Local), SQL basics  
+- **Tools & Others:** Git/GitHub, Postman, JWT, bcrypt, dotenv  
+
+---
+
+## 🔥 Projects  
+
+### 📌 [Automated Attendance System (AAS)](https://github.com/Namit-07/AAS)  
+- Developed during **Smart India Hackathon (SIH)**  
+- Built **backend APIs** using Node.js, Express, MongoDB  
+- Implemented **JWT Authentication**, teacher login, and attendance APIs  
+- Supports **offline storage & syncing** for reliability  
+
+---
+
+## 🎯 Current Focus  
+
+- Completing the **Sigma Web Dev Course** (HTML → CSS → JS → Tailwind → React → Backend)  
+- Preparing for **Google Summer of Code (GSoC 2026)**  
+- Building **full-stack projects** to sharpen practical skills  
+
+---
+
+## 📫 Connect with Me  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/namit-tickoo-69b2a9367/)  
+- 📧 namittickoo2006@gmail.com  
+
+---
+
+💡 *Always curious, always building.*  
+
 # 🎯 Complete Setup Guide - Automated Attendance System
 
 ## Prerequisites
